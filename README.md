@@ -1,8 +1,9 @@
 # **Console Calculator in C# (Method Overloading + ReadLine)**
 
+This is a simple **C# console-based calculator** that supports basic arithmetic operations (`+`, `-`, `*`, `/`, `%`) on **two or three numbers**. It uses **method overloading** to handle different data types (`int`, `double`) and number counts. The program reads user input from the console using `Console.ReadLine()` and uses **C# 8.0 switch expressions** for clean, readable logic.
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee4ab7ca-d4ec-43e1-82df-9eab5743565f" />
 
-This is a simple **C# console-based calculator** that supports basic arithmetic operations (`+`, `-`, `*`, `/`, `%`) on **two or three numbers**. It uses **method overloading** to handle different data types (`int`, `double`) and number counts. The program reads user input from the console using `Console.ReadLine()` and uses **C# 8.0 switch expressions** for clean, readable logic.
 
 ## 🚀 Features
 
